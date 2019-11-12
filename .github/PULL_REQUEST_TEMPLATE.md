@@ -6,8 +6,6 @@ Issue #
 
 Summary of approach.
 
-### How was it fixed?
-
 
 ### To-Do
 
