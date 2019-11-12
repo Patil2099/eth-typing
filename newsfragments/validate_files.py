@@ -28,5 +28,4 @@ for fragment_file in THIS_DIR.iterdir():
 
     full_extension = "".join(fragment_file.suffixes)
     if full_extension not in ALLOWED_EXTENSIONS:
-        raise Exception(f"Unexpected file: {fragment_file}")
-    
+        raise Exception(f"Unexpected file: {fragment_file}") 
